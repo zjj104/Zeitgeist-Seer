@@ -1,0 +1,2 @@
+# Zeitgeist-Seer
+Welcome to the Zeitgeist Seer Program! Zeitgeist is a blockchain that is powered by prediction markets, and prediction markets are powered by the community that participates in them. Emphasizing this philosophy of a community-powered blockchain, Zeitgeist will be governed via "Futarchy", a governance model introduced by world renowned economist Robin Hanson. With this kind of true community-driven governance, Zeitgeist is pushing the boundaries of what we've seen in the blockchain industry to date.
