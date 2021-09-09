@@ -14,13 +14,13 @@ We want to continue this emphasis on community, Zeitgeist's Seer program was cre
 > ### 我们的愿景
 
 Our vision for the Seer Program is to build a community of like-minded individuals who are dedicated to creating, and shaping the future of the Zeitgeist ecosystem. Our program focuses on fostering an atmosphere where participants are incentivized to network and collaborate together with the common goal of advancing the ecosystem.
-> 我们希望通过先知计划来建立一个由一群志同道合的人组成的社区，他们致力于创造和建设 Zeitgeist 生态系统的未来。 我们的计划侧重于营造一种氛围，鼓励参与者建设网络，并与推进生态系统的共同目标而合作。
+> 我们希望通过先知计划来建立一个由一群志同道合的人组成的社区，他们致力于创造和建设 Zeitgeist 生态系统的未来。我们的计划侧重于营造一种氛围，鼓励参与者建设网络，并与推进生态系统的共同目标而合作。
 
 ### How It Works
 > ### 运作原理
 
 The Seer program is designed with two major avenues of progression: Titles and Eras.  Built for adaptability and encouraging collaboration towards common goals, Titles and Eras are tangible sources of progression for Seers and the program itself. The evolution of the program will eventually be guided by the principles of Futarchy as Zeitgeist matures.
-> 先知计划的发展途径有两个概念：“名称（Titles）” 和 “时代（Eras）”。 名称和时代的设计用于适应 Zeitgeist 的不断发展和激励社区成员的共同协作，是先知计划本身发展的可见资源。随着 Zeitgeist 的成熟，该计划的发展最终将遵循 Futarchy 的原则。
+> 先知计划的发展途径有两个概念：“名称（Titles）” 和 “时代（Eras）”。名称和时代的设计用于适应 Zeitgeist 的不断发展和激励社区成员的共同协作，是先知计划本身发展的可见资源。随着 Zeitgeist 的成熟，该计划的发展最终将遵循 Futarchy 的原则。
 
 ### Eras
 > ### 时代
@@ -32,7 +32,7 @@ Eras are the vehicle of progression for the Seer Program as a whole. Each Era la
 > ### 称号
 
 Titles are designed to distinguish members of the program who have made active contributions to the Zeitgeist ecosystem and act as a source of prestige for those members. Titles also unlock various perks throughout the duration of the program including exclusive NFT rewards.
-> 称号旨在区分为 Zeitgeist 生态系统做出积极贡献的项目成员，并作为这些成员的声望来源。 在整个计划期间，称号还可以解锁各种特权，包括独家 NFT 奖励。
+> 称号旨在区分为 Zeitgeist 生态系统做出积极贡献的项目成员，并作为这些成员的声望来源。在整个计划期间，称号还可以解锁各种特权，包括独家 NFT 奖励。
 
 ### Get Involved
 > ### 加入我们
