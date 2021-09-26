@@ -23,6 +23,7 @@ Once you are on singular.rmrk.app you need to connect your Seer Program Wallet t
 **!!Make sure you select your Seer Program specific wallet!!**
 > ### 连接您的钱包
 > 进入 [singular.rmrk.app](https://singular.rmrk.app/) 后，您需要通过单击“连接钱包（Connect wallet）”按钮将您的先知计划钱包连接到该应用程序。如下图所示。
+> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-07-22.png)
 > ![](2021-09-26-15-07-22.png)  
 > **!!请确保您选择了指定的先知计划钱包!!**
 > ![](2021-09-26-15-09-51.png)
