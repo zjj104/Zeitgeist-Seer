@@ -50,6 +50,6 @@ Now all that is left to do is submit a link to your NFT and a few other details 
 > ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-19-51.png)  
 > **!!!在您的 NFT 作品描述字段中，您必须包含一行“由先知计划艺术家铸造”。(即 Minted by Seer program artists)!!!** 如下图所示。    
 > ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-22-23.png)  
-> 接下来，您只需要点击 “创建（create）” 按钮并使用您指定的先知计划钱包签名交易即可完成！  
+> 接下来，您只需要点击 “创建（create）” 按钮并使用您指定的先知计划钱包签名交易即可完成铸造！  
 > 恭喜您！您刚刚在 RMRK 上铸造了属于自己的 NFT！  
 > 最后，您需要在 Seer Program Discord 内的 #nft-artist-showcase 频道中找到 NFT 表单并填写您的 NFT 链接和一些其他的详细信息！
