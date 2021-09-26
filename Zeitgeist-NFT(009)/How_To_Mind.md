@@ -19,8 +19,14 @@ Minting your own NFT may seem intimidating, but thankfully with the RMRK app it 
 > - 您铸造 NFT 所需的图片或视频，它们可以是 JPEG, PNG, GIF, WEBP, MP4, OGG, GLB, PDF 格式（最大 30mb）
 
 ### Connect your wallet
-Once you are on singular.rmrk.app you need to connect your Seer Program Wallet to the app by clicking the “Connect wallet” button.
+Once you are on singular.rmrk.app you need to connect your Seer Program Wallet to the app by clicking the “Connect wallet” button.  
 **!!Make sure you select your Seer Program specific wallet!!**
+> ### 连接您的钱包
+> 进入 [singular.rmrk.app](https://singular.rmrk.app/) 后，您需要通过单击“连接钱包（Connect wallet）”按钮将您的先知计划钱包连接到该应用程序。如下图所示。
+> ![](2021-09-26-15-07-22.png)  
+> **!!请确保您选择了指定的先知计划钱包!!**
+> ![](2021-09-26-15-09-51.png)
+
 
 ### Minting your NFT on RMRK
 Now that you have connected your wallet to the RMRK app, it is time to mint your NFT!  
@@ -33,11 +39,7 @@ Now all you have to do is hit the create button and sign the transaction with yo
 Congratulations! You have just minted your very own NFT on RMRK!  
 Now all that is left to do is submit a link to your NFT and a few other details with the form found in the #nft-artist-showcase channel inside the Seer Program Discord!
 
-> ### 连接您的钱包
-> 进入 [singular.rmrk.app](https://singular.rmrk.app/) 后，您需要通过单击“连接钱包（Connect wallet）”按钮将您的先知计划钱包连接到该应用程序。如下图所示。
-> ![](2021-09-26-15-07-22.png)  
-> **!!请确保您选择了指定的先知计划钱包!!**
-> ![](2021-09-26-15-09-51.png)
+> ### 在 RMRK 上铸造您的NFT
 > 现在您已将钱包连接到 RMRK 应用程序了，是时候铸造您的 NFT 了！  
 > 单击页面顶部的“创建（Create）”按钮。如下图所示。
 > ![](2021-09-26-15-11-57.png)  
