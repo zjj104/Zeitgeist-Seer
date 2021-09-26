@@ -47,7 +47,7 @@ Now all that is left to do is submit a link to your NFT and a few other details 
 > ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-14-35.png)  
 > 创建完集合后，您将返回到 “创建” 界面，并在可选选项中看到您刚才创建的集合。  
 > 选择您新建的集合，然后单击 “选择文件（Choose file）” 按钮上传您的 NFT 文件！如下图所示。  
-> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-19-51.png)
+> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-19-51.png)  
 > **!!!在您的 NFT 作品描述字段中，您必须包含一行“由先知计划艺术家铸造”。(即 Minted by Seer program artists)!!!** 如下图所示。    
 > ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-22-23.png)
 > 接下来，您只需要点击 “创建（create）” 按钮并使用您指定的先知计划钱包签名交易即可完成！  
