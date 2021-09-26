@@ -23,10 +23,9 @@ Once you are on singular.rmrk.app you need to connect your Seer Program Wallet t
 **!!Make sure you select your Seer Program specific wallet!!**
 > ### 连接您的钱包
 > 进入 [singular.rmrk.app](https://singular.rmrk.app/) 后，您需要通过单击“连接钱包（Connect wallet）”按钮将您的先知计划钱包连接到该应用程序。如下图所示。
-> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-07-22.png)
-> ![](2021-09-26-15-07-22.png)  
+> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-07-22.png)  
 > **!!请确保您选择了指定的先知计划钱包!!**
-> ![](2021-09-26-15-09-51.png)
+> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-09-51.png)
 
 
 ### Minting your NFT on RMRK
@@ -43,14 +42,14 @@ Now all that is left to do is submit a link to your NFT and a few other details 
 > ### 在 RMRK 上铸造您的NFT
 > 现在您已将钱包连接到 RMRK 应用程序了，是时候铸造您的 NFT 了！  
 > 单击页面顶部的“创建（Create）”按钮。如下图所示。
-> ![](2021-09-26-15-11-57.png)  
+> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-11-57.png)  
 > 在 RMRK 上铸造的每个 NFT 都必须是集合的一部分。 所以首先您必须创建您自己的集合。如下图所示。
-> ![](2021-09-26-15-14-35.png)  
+> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-14-35.png)  
 > 创建完集合后，您将返回到 “创建” 界面，并在可选选项中看到您刚才创建的集合。  
 > 选择您新建的集合，然后单击 “选择文件（Choose file）” 按钮上传您的 NFT 文件！如下图所示。  
-> ![](2021-09-26-15-19-51.png)
+> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-19-51.png)
 > **!!!在您的 NFT 作品描述字段中，您必须包含一行“由先知计划艺术家铸造”。(即 Minted by Seer program artists)!!!** 如下图所示。  
-> ![](2021-09-26-15-22-23.png)
+> ![](https://github.com/zjj104/Zeitgeist-Seer/blob/master/Zeitgeist-NFT(009)/2021-09-26-15-22-23.png)
 > 接下来，您只需要点击 “创建（create）” 按钮并使用您指定的先知计划钱包签名交易即可完成！  
 > 恭喜您！您刚刚在 RMRK 上铸造了属于自己的 NFT！  
 > 最后，您需要在 Seer Program Discord 内的 #nft-artist-showcase 频道中找到 NFT 表单并填写您的 NFT 链接和一些其他的详细信息！
