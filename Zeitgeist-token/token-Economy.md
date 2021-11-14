@@ -107,7 +107,7 @@ Of the 5% inflation, 1% will go to operators of collator nodes which do the bloc
 The transaction fees on Zeitgeist will be subject to 80% burn which creates a deflationary pressure on the supply. The remaining 20% of transactions fees will be sent to the on-chain treasury which will use the funds to fund the future growth of the network.
 
 > ## 交易费和通胀
-> Zeitgeist 的年通胀率为 5%。因此，随着时间的推移，Zeitgeist 的供应是可以预测的，但没有上限。
-> Zeitgeist 的通胀将主要用于激励网络的持续安全。安全性包括获得 Kusma 的平行链租赁以及选择和维护 collator 节点来执行区块链的交易整理（区块生产）。
-> 在 5% 的通货膨胀中，1% 将用于进行区块生产的 collator 节点的奖励，2% 将用于帮助选择 collator 的 ZTG 的抵押者，剩余的 2% 将用于激励在帮助 Zeitgeist平行链租赁中锁定 KSM 的参与者。
+> Zeitgeist 的年通胀率为 5%。因此，随着时间的推移，Zeitgeist 的供应是可以预测的，但没有上限。 
+> Zeitgeist 的通胀将主要用于激励网络的持续安全。安全性包括获得 Kusma 的平行链租赁以及选择和维护 collator 节点来执行区块链的交易整理（区块生产）。 
+> 在 5% 的通货膨胀中，1% 将用于进行区块生产的 collator 节点的奖励，2% 将用于帮助选择 collator 的 ZTG 的抵押者，剩余的 2% 将用于激励在帮助 Zeitgeist平行链租赁中锁定 KSM 的参与者。 
 > Zeitgeist 的交易费用 80% 将被燃烧，这对供应造成通缩压力。剩余 20% 的交易费用将被发送到链上国库，将为网络的未来发展提供资金。
